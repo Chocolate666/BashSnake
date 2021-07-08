@@ -2,7 +2,7 @@
 
 # filename: snake.sh
 # snake game
-# Author: LKJ 2013.5.17
+# Author: AtomWhisky 2021.7.7
 
 good_game=(
     '                                                 '
